@@ -1,0 +1,35 @@
+package Classwork;
+
+
+import java.util.HashMap;
+import java.util.HashSet;
+
+public class Midterm {
+    public static void main(String[] args) {
+//        int[] array = {1, 3, 5, 4, 2, 7};
+//
+//        int missingSmallestPositive = array[6];
+//        for (int i = 1; i < array.length; i++) {
+//            if (array[i] < missingSmallestPositive && array[i] > 0) ;
+//            missingSmallestPositive = array[i];
+//            missingSmallestPositive = array[i];
+//            System.out.println("missingSmallestPositive");
+
+
+
+
+
+
+
+
+
+
+
+
+    //    Create a method to return missing smallest positive integer (greater than 0) from given array.
+//    Example:
+//    For array : [1,3,5,4,2 ,7]
+//    Method should return : 6
+//    For array : [-1, -3, 4, 2]
+//    Method should return : 1
+//    For array : [0, 5, -1, 1, 2, 4, 5, 3, 7, 1,]
